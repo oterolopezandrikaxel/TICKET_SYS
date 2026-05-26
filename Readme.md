@@ -15,3 +15,15 @@ herramientas A, B y C, es un periodo de 3 meses.
 -FRAMEWORK
 -IDE:
 -CVS:
+
+##ARQUITECTURA 
+La arquitectura del proyecto será 
+
+***
+
+##METODOLOGÍA
+La metodología para el desarrollo del aaplicación será SCRUM en 4 Sprint
+-[ ] SPRINT 1
+-[ ] SPRINT 2
+-[ ] SPRINT 3
+-[ ] SPRINT 4
